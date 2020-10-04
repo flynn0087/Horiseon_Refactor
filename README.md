@@ -1,4 +1,4 @@
-# Horiseon-Code-Refactor
+# Horiseon Refactor
 
 ## Description
 A refactoring of an existing html/css web layout. The code for this .html webpage was made without accessibility condisiderations in mind. I reviewed information on nvaccess.org, a leading accessibility software developer, to get an idea of what portions of the code need adjustment to be compliant. I have made those adjustments, as well as comments indicating what each section of code does on the web page.
