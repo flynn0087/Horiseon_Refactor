@@ -7,9 +7,9 @@ A refactoring of an existing html/css web layout. The code for this .html webpag
 No installation beyond a web browser should be needed to view the webpage. However, a non-visual reader, such as nvaccess.org would be required to view the accessibility details. A code editor such as visual studio is required to view the code.
 
 ## Usage
-This webpage is viewable at: https://flynn0087.github.io/Horiseon-Code-Refactor/
+This webpage is viewable at: https://flynn0087.github.io/Horiseon_Refactor/
 Here is an example image of the page: 
-![Image of webpage]https://github.com/flynn0087/Horiseon-Code-Refactor/blob/main/screen%20shot%20of%20webpage.PNG
+![Image of webpage]https://github.com/flynn0087/Horiseon_Refactor/blob/main/screen%20shot%20of%20webpage.PNG
 
 ## Contributing
 As this is my first attempt at refactoring I used a more restrictive license. However, pull requests and advice are welcome. For major changes please create an issue first about the changes to be made.
